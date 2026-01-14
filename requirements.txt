@@ -1,0 +1,7 @@
+mne
+mne-connectivity
+numpy
+scipy
+matplotlib
+networkx
+pandas
